@@ -1,0 +1,5 @@
+{
+  "name": "University Project Hub",
+  "description": "A web application for university students to upload their design projects and view them in a social media-style feed. Students can submit photos or videos via a form, and browse all submissions through a filterable gallery.",
+  "requestFramePermissions": []
+}
